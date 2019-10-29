@@ -1,8 +1,8 @@
 Yii 2 Advanced Template
 
-Access /site/docs to see swagger docs
-Log in as "admin/admin" to see AdminLTE template in admin panel
-DB dump is attached
+- Access /site/docs to see swagger docs
+- Log in as "admin/admin" to see AdminLTE template in admin panel
+- DB dump is attached
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
